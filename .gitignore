@@ -1,2 +1,4 @@
+/.metadata/*
 /DynamoDBPrototype/target/**
 /DynamoDBPrototype/src/main/resources/AwsCredentials.properties
+/RemoteSystemsTempFiles/**
